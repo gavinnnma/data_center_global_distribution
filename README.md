@@ -2,7 +2,7 @@
 
 An interactive data visualization tool that maps the global distribution of data centers, analyzing infrastructure volume against renewable energy adoption rates.
 
-(Replace this link with an actual screenshot of your map after uploading)
+![alt text](image.png)
 
 ## 🚀 Overview
 
