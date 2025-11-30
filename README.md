@@ -14,6 +14,10 @@ Key Metrics Visualized:
 
 2. Sustainability (Color Gradient): Indicates the percentage of renewable energy usage (Red = Low, Green = High).
 
+## 📊 Data Source
+
+Dataset Source: Kaggle - Data Center Dataset (https://www.kaggle.com/datasets/rockyt07/data-center-dataset)
+
 ## ✨ Features
 
 Interactive World Map:
@@ -69,10 +73,6 @@ Click on Pages in the left sidebar.
 Under Source, select main (or master) from the dropdown menu and click Save.
 
 GitHub will provide a URL (e.g., https://your-username.github.io/repo-name/) where your map is live!
-
-## 📊 Data Source
-
-Dataset Source: Kaggle - Data Center Dataset (https://www.kaggle.com/datasets/rockyt07/data-center-dataset)
 
 ## 📄 License
 
