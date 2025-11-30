@@ -1,4 +1,4 @@
-### ﻿Global Data Center Landscape Dashboard 🌍
+# ﻿Global Data Center Landscape Dashboard 🌍
 
 An interactive data visualization tool that maps the global distribution of data centers, analyzing infrastructure volume against renewable energy adoption rates.
 
@@ -10,11 +10,11 @@ This dashboard visualizes global data center metrics to highlight the balance be
 
 Key Metrics Visualized:
 
-Volume (Circle Size): Represents the total number of data centers in a country.
+1. Volume (Circle Size): Represents the total number of data centers in a country.
 
-Sustainability (Color Gradient): Indicates the percentage of renewable energy usage (Red = Low, Green = High).
+2. Sustainability (Color Gradient): Indicates the percentage of renewable energy usage (Red = Low, Green = High).
 
-✨ Features
+## ✨ Features
 
 Interactive World Map:
 
@@ -36,7 +36,7 @@ Key Local Operators
 
 Top 10 Hubs: A dynamic bar chart at the bottom ranking the countries with the largest infrastructure.
 
-🛠️ How to Run
+## 🛠️ How to Run
 
 This project is built as a single-file application. It does not require npm, Node.js, or a build process.
 
@@ -46,7 +46,7 @@ Open the file directly in any modern web browser (Chrome, Edge, Firefox, Safari)
 
 The application will automatically fetch the required libraries (React, D3, Tailwind) via CDN.
 
-📦 Technologies Used
+## 📦 Technologies Used
 
 React (via CDN): Component-based UI logic.
 
@@ -58,7 +58,7 @@ Tailwind CSS (via CDN): Rapid, responsive styling.
 
 Lucide Icons: Visual iconography.
 
-🌐 Hosting on GitHub Pages
+## 🌐 Hosting on GitHub Pages
 
 You can view this map live without downloading it by hosting it on GitHub Pages:
 
@@ -70,12 +70,13 @@ Under Source, select main (or master) from the dropdown menu and click Save.
 
 GitHub will provide a URL (e.g., https://your-username.github.io/repo-name/) where your map is live!
 
-📊 Data Source
+## 📊 Data Source
 
 Dataset Source: Kaggle - Data Center Dataset (https://www.kaggle.com/datasets/rockyt07/data-center-dataset)
 
-📄 License
+## 📄 License
 
 
 This project is open-source and available under the MIT License.
+
 
