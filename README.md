@@ -1,10 +1,10 @@
-##﻿Global Data Center Landscape Dashboard 🌍
+### ﻿Global Data Center Landscape Dashboard 🌍
 
 An interactive data visualization tool that maps the global distribution of data centers, analyzing infrastructure volume against renewable energy adoption rates.
 
 (Replace this link with an actual screenshot of your map after uploading)
 
-🚀 Overview
+## 🚀 Overview
 
 This dashboard visualizes global data center metrics to highlight the balance between digital infrastructure growth and sustainability. It serves as both an analytical tool and a presentation aid.
 
@@ -78,3 +78,4 @@ Dataset Source: Kaggle - Data Center Dataset (https://www.kaggle.com/datasets/ro
 
 
 This project is open-source and available under the MIT License.
+
